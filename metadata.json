@@ -1,0 +1,31 @@
+{
+  "id": "IFBE6A399",
+  "title": "༄། །གནས་ལྔ་པ། ཕྲ་རྒྱས་བསྟན་པ།",
+  "author": null,
+  "imported": "2024-10-18T14:20:13.032302",
+  "source": null,
+  "toolkit_version": "0.0.1",
+  "parser": "DharamanexusParser",
+  "initial_creation_type": "json",
+  "language": "bo",
+  "source_metadata": {},
+  "bases": [
+    {
+      "E989": {
+        "source_metadata": {
+          "source_id": "v001",
+          "total_segments": 2659,
+          "total_pages": 126
+        },
+        "base_file": "E989",
+        "order": 1
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
